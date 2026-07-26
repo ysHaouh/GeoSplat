@@ -1,4 +1,3 @@
-# GeoSplat
 <p align="center">
   <h1 align="center">GeoSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Geometry-Aware Priors</h1>
 <!--   <div align="center">
